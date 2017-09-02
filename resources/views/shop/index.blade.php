@@ -8,7 +8,6 @@ use App\Product;
 
 @section('content')
     <div class='row'>
-        <input type="text" class="form-control" id="search" name="search"></input>
         <div class='col-md-3'>
             <form action="{{URL::current()}}" container" >
 

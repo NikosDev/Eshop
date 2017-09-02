@@ -31,5 +31,3 @@ Route::get('/cms/remove/{id}', 'CmsController@RemoveItem');
 Route::post('/cms/update/{id}', 'CmsController@UpdateItem');
 Route::post('/cms/add', 'CmsController@AddItem');
 
-Route::get('/search', 'ProductController@search');
-
