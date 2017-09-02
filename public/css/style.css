@@ -1,0 +1,13 @@
+#add{
+    padding-top: 8px !important;
+}
+.card{
+    height: 400px;
+}
+body > nav{
+    background-color: #31b0d5;
+}
+#pagi{
+    padding-left: 15px;
+    float: right!important;
+}

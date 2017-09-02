@@ -1,0 +1,66 @@
+/* Navbar */
+.navbar {
+  background-color: #31a0d5;
+  border-color: #c0392b;
+}
+.navbar-nav > li > a, .navbar-brand{
+  padding-top:6px !important;
+  padding-bottom:0 !important;
+  height: 33px;
+}
+.navbar-brand{
+    padding-top:0 !important;
+}
+@media (min-width: 308px) {
+   .navbar {
+       display: block !important;
+   }
+}
+/* Jumbotron */
+.jumbotron{
+    padding-top:16px;
+    padding-bottom:0px;
+    margin-bottom:20px;
+}
+/* Cards */
+body{
+    background-color:#f4f4f4;
+}
+.main-color{
+    background-color: #31a0d5;
+}
+.breadcrumb{
+   background-color: #cccccc;
+}
+.breadcrumb-item a{
+    color:black;
+}
+#kartes{
+    padding:20px;
+}
+#kartes > div{
+    margin:4px !important;
+}
+a.card-link{
+    color:black;
+}
+.form-control::-moz-placeholder {
+  color: #999999;
+  opacity: 1;
+}
+.form-control:-ms-input-placeholder {
+  color: #999999;
+}
+.form-control::-webkit-input-placeholder {
+  color: #999999;
+}
+#keno{
+    margin-bottom:30px;
+}
+#footer-space{
+    padding:18px;
+}
+.nav-link.active{
+    background-color: #c9302c;
+    border-radius: 4px;
+}
