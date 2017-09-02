@@ -1,4 +1,4 @@
-#  Eshop made with Laravel.
+#  Eshop made with Laravel and Bootstrap.
 
 # Images:
 ![alt text](https://github.com/NikosDev/Eshop/blob/master/a.PNG)
